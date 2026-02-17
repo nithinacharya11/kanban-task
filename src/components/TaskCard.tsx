@@ -82,7 +82,7 @@ const prevColumn = getPrevColumn();
       Move to {prevColumn === "inprogress" ? "In Progress" : "Todo"}
     </button>
   )}
-
+{/* etsest */}
   {nextColumn && (
     <button
       onClick={() =>
